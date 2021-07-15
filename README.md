@@ -1,1 +1,2 @@
-# test_git_L1F17BSCS0510
+# IDS_Fina_Project_0510
+Heart_Failure_Prediction_Project
